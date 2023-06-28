@@ -1,0 +1,1 @@
+final initial_url = "https://yayasanmutiaraihsanindonesia.my.id/api";
